@@ -1,2 +1,2 @@
-# Covid-19-kaggle
-Repositório feito para compartilhar código do desafio do kaggle sobre o novo Corona vírus
+# Covid-19
+Repositório feito para compartilhar código e informações sobre trabalhos relaciodados com o novo corona virus.
